@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F418DCBC-45F3-4BA6-BF51-D9D70BABEE01}|CarFactoryAPI_test\\CarFactoryAPI_test.csproj|d:\\iti\\unittesting\\lab\\unit_test_lab\\carfactoryapi_test\\ownersservice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F418DCBC-45F3-4BA6-BF51-D9D70BABEE01}|CarFactoryAPI_test\\CarFactoryAPI_test.csproj|solutionrelative:carfactoryapi_test\\ownersservice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2974E6-0B41-481F-81AA-1E964A6D6642}|CarFactoryAPI\\CarFactoryAPI.csproj|d:\\iti\\unittesting\\lab\\unit_test_lab\\carfactoryapi\\services-bll\\ownersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2974E6-0B41-481F-81AA-1E964A6D6642}|CarFactoryAPI\\CarFactoryAPI.csproj|solutionrelative:carfactoryapi\\services-bll\\ownersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2974E6-0B41-481F-81AA-1E964A6D6642}|CarFactoryAPI\\CarFactoryAPI.csproj|d:\\iti\\unittesting\\lab\\unit_test_lab\\carfactoryapi\\repositories-dal\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2974E6-0B41-481F-81AA-1E964A6D6642}|CarFactoryAPI\\CarFactoryAPI.csproj|solutionrelative:carfactoryapi\\repositories-dal\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2974E6-0B41-481F-81AA-1E964A6D6642}|CarFactoryAPI\\CarFactoryAPI.csproj|d:\\iti\\unittesting\\lab\\unit_test_lab\\carfactoryapi\\payment\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2974E6-0B41-481F-81AA-1E964A6D6642}|CarFactoryAPI\\CarFactoryAPI.csproj|solutionrelative:carfactoryapi\\payment\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashService.cs",
+              "DocumentMoniker": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\CarFactoryAPI\\Payment\\CashService.cs",
+              "RelativeDocumentMoniker": "CarFactoryAPI\\Payment\\CashService.cs",
+              "ToolTip": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\CarFactoryAPI\\Payment\\CashService.cs",
+              "RelativeToolTip": "CarFactoryAPI\\Payment\\CashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:13:29.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\CarFactoryAPI\\Repositories-DAL\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarFactoryAPI\\Repositories-DAL\\CarRepository.cs",
+              "ToolTip": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\CarFactoryAPI\\Repositories-DAL\\CarRepository.cs",
+              "RelativeToolTip": "CarFactoryAPI\\Repositories-DAL\\CarRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvzcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:31:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OwnersService.cs",
+              "DocumentMoniker": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\CarFactoryAPI\\Services-BLL\\OwnersService.cs",
+              "RelativeDocumentMoniker": "CarFactoryAPI\\Services-BLL\\OwnersService.cs",
+              "ToolTip": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\CarFactoryAPI\\Services-BLL\\OwnersService.cs",
+              "RelativeToolTip": "CarFactoryAPI\\Services-BLL\\OwnersService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:59:56.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OwnersService_tests.cs",
+              "DocumentMoniker": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\CarFactoryAPI_test\\OwnersService_tests.cs",
+              "RelativeDocumentMoniker": "CarFactoryAPI_test\\OwnersService_tests.cs",
+              "ToolTip": "D:\\ITI\\UnitTesting\\Lab\\Unit_Test_Lab\\CarFactoryAPI_test\\OwnersService_tests.cs",
+              "RelativeToolTip": "CarFactoryAPI_test\\OwnersService_tests.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv6MAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:54:55.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Unit test\Day1\CarFactoryLibrary\bin\Debug\net7.0\CarFactoryLibrary.deps.json
+D:\Unit test\Day1\CarFactoryLibrary\bin\Debug\net7.0\CarFactoryLibrary.dll
+D:\Unit test\Day1\CarFactoryLibrary\bin\Debug\net7.0\CarFactoryLibrary.pdb
+D:\Unit test\Day1\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unit test\Day1\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.AssemblyInfoInputs.cache
+D:\Unit test\Day1\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.AssemblyInfo.cs
+D:\Unit test\Day1\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.csproj.CoreCompileInputs.cache
+D:\Unit test\Day1\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.dll
+D:\Unit test\Day1\CarFactoryLibrary\obj\Debug\net7.0\refint\CarFactoryLibrary.dll
+D:\Unit test\Day1\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.pdb
+D:\Unit test\Day1\CarFactoryLibrary\obj\Debug\net7.0\ref\CarFactoryLibrary.dll
